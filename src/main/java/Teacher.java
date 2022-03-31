@@ -4,4 +4,5 @@ public class Teacher {
     String nhom2;
     String nhom4;
     int age;
+    String test;
 }
